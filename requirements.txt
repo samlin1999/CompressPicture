@@ -1,0 +1,6 @@
+PySide6-Essentials==6.12.0
+Pillow==13.0.0
+numpy==2.5.4
+pyoxipng==9.1.1
+imagequant==1.1.5
+mozjpeg-lossless-optimization==1.3.2

@@ -1,0 +1,13 @@
+# Python virtual environment (recreate with: python -m venv .venv && .venv\Scripts\pip install -r requirements.txt)
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# PyInstaller build output (build.bat)
+build/
+dist/
+*.spec
+version_info.txt
